@@ -10,7 +10,7 @@ namespace Homework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите свое имя");
+            Console.WriteLine("Введите свое имя.");
             string name = Console.ReadLine();
             DateTime date = DateTime.Now;
             Console.WriteLine($"Привет, {name}, сегодня {date.ToString("dd.MM.yyyy")}.");

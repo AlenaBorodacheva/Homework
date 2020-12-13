@@ -29,8 +29,8 @@ namespace number_of_month
             Console.Write("Введите порядковый номер месяца: ");
             while (true)
             {
-                string StrNum = Console.ReadLine();
-                int num = Convert.ToInt32(StrNum);
+                //string StrNum = Console.ReadLine();
+                int num = Convert.ToInt32(Console.ReadLine());
                 if (num > 12 || num < 1) 
                     Console.Write("Введите число от 1 до 12: ");
                 else

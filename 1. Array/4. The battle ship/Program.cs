@@ -94,7 +94,6 @@ namespace _4.The_battle_ship
                     else
                     {
                         count4++;
-                        continue;
                     }
                 }
                 else
@@ -134,7 +133,6 @@ namespace _4.The_battle_ship
                     else
                     {
                         count4++;
-                        continue;
                     }
                 }
             }
@@ -177,7 +175,6 @@ namespace _4.The_battle_ship
                     else
                     {
                         count3++;
-                        continue;
                     }
                 }
                 else
@@ -213,7 +210,6 @@ namespace _4.The_battle_ship
                     else
                     {
                         count3++;
-                        continue;
                     }
                 }
             }
@@ -252,7 +248,6 @@ namespace _4.The_battle_ship
                     else
                     {
                         count2++;
-                        continue;
                     }
                 }
                 else
@@ -284,7 +279,6 @@ namespace _4.The_battle_ship
                     else
                     {
                         count2++;
-                        continue;
                     }
                 }
             }
